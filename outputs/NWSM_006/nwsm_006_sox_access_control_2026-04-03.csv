@@ -1,0 +1,36 @@
+job_title,department_name,role_name,base_roles,alignment_status,check_id,run_date,run_timestamp
+Account Manager,Sales & Marketing,Support_Viewer,Support_Viewer,BASELINE_ROLE_ALIGNED,NWSM_006,2026-04-03,2026-04-03 11:29:&S
+Audit Specialist,Internal Audit,NetOps_Viewer,NetOps_Viewer,BASELINE_ROLE_ALIGNED,NWSM_006,2026-04-03,2026-04-03 11:29:&S
+Billing Specialist,Finance,Finance_Reporting,Finance_Reporting,BASELINE_ROLE_ALIGNED,NWSM_006,2026-04-03,2026-04-03 11:29:&S
+Billing Specialist,Finance,NetOps_Operator,Finance_Reporting,BASELINE_ROLE_MISMATCH,NWSM_006,2026-04-03,2026-04-03 11:29:&S
+Deployment Engineer,Engineering,Eng_Deploy,Eng_Deploy,BASELINE_ROLE_ALIGNED,NWSM_006,2026-04-03,2026-04-03 11:29:&S
+Deployment Engineer,Engineering,Global_SuperAdmin,Eng_Deploy,BASELINE_ROLE_MISMATCH,NWSM_006,2026-04-03,2026-04-03 11:29:&S
+DevOps Engineer,Engineering,Eng_Deploy,Eng_Deploy,BASELINE_ROLE_ALIGNED,NWSM_006,2026-04-03,2026-04-03 11:29:&S
+DevOps Engineer,Engineering,Eng_ReadOnly,Eng_Deploy,BASELINE_ROLE_MISMATCH,NWSM_006,2026-04-03,2026-04-03 11:29:&S
+Finance Analyst,Finance,Finance_Reporting,Finance_Reporting,BASELINE_ROLE_ALIGNED,NWSM_006,2026-04-03,2026-04-03 11:29:&S
+Finance Manager,Finance,Finance_Reporting,Finance_Reporting,BASELINE_ROLE_ALIGNED,NWSM_006,2026-04-03,2026-04-03 11:29:&S
+Financial Controller,Finance,Finance_Reporting,Finance_Reporting,BASELINE_ROLE_ALIGNED,NWSM_006,2026-04-03,2026-04-03 11:29:&S
+HR Generalist,HR,Sec_Admin,,NO_BASELINE_ROLE,NWSM_006,2026-04-03,2026-04-03 11:29:&S
+HR Specialist,HR,NetOps_Viewer,,NO_BASELINE_ROLE,NWSM_006,2026-04-03,2026-04-03 11:29:&S
+Internal Auditor,Internal Audit,NetOps_Viewer,NetOps_Viewer,BASELINE_ROLE_ALIGNED,NWSM_006,2026-04-03,2026-04-03 11:29:&S
+Marketing Manager,Sales & Marketing,Support_Viewer,Support_Viewer,BASELINE_ROLE_ALIGNED,NWSM_006,2026-04-03,2026-04-03 11:29:&S
+Network Engineer,Engineering,Eng_Deploy,Eng_Deploy,BASELINE_ROLE_ALIGNED,NWSM_006,2026-04-03,2026-04-03 11:29:&S
+Network Engineer,Engineering,Eng_ReadOnly,Eng_Deploy,BASELINE_ROLE_MISMATCH,NWSM_006,2026-04-03,2026-04-03 11:29:&S
+Network Engineer,IT Operations,NetOps_Admin,NetOps_Operator,BASELINE_ROLE_MISMATCH,NWSM_006,2026-04-03,2026-04-03 11:29:&S
+Network Engineer,IT Operations,NetOps_Operator,NetOps_Operator,BASELINE_ROLE_ALIGNED,NWSM_006,2026-04-03,2026-04-03 11:29:&S
+Network Operations Engineer,IT Operations,NetOps_Operator,NetOps_Operator,BASELINE_ROLE_ALIGNED,NWSM_006,2026-04-03,2026-04-03 11:29:&S
+Network Ops Manager,IT Operations,NetOps_Operator,NetOps_Operator,BASELINE_ROLE_ALIGNED,NWSM_006,2026-04-03,2026-04-03 11:29:&S
+NOC Technician,IT Operations,NetOps_Viewer,NetOps_Viewer,BASELINE_ROLE_ALIGNED,NWSM_006,2026-04-03,2026-04-03 11:29:&S
+Observability Engineer,Engineering,Eng_ReadOnly,Eng_ReadOnly,BASELINE_ROLE_ALIGNED,NWSM_006,2026-04-03,2026-04-03 11:29:&S
+Sales Engineer,Sales & Marketing,NetOps_Admin,Support_Viewer,BASELINE_ROLE_MISMATCH,NWSM_006,2026-04-03,2026-04-03 11:29:&S
+Sales Engineer,Sales & Marketing,NetOps_Operator,Support_Viewer,BASELINE_ROLE_MISMATCH,NWSM_006,2026-04-03,2026-04-03 11:29:&S
+SecOps Analyst,Security,Sec_Analyst,Sec_Analyst,BASELINE_ROLE_ALIGNED,NWSM_006,2026-04-03,2026-04-03 11:29:&S
+Security Analyst,Security,Sec_Analyst,Sec_Analyst,BASELINE_ROLE_ALIGNED,NWSM_006,2026-04-03,2026-04-03 11:29:&S
+Security Architect,Security,Sec_Admin,Sec_Admin,BASELINE_ROLE_ALIGNED,NWSM_006,2026-04-03,2026-04-03 11:29:&S
+Security Engineer,Security,Sec_Analyst,Sec_Analyst,BASELINE_ROLE_ALIGNED,NWSM_006,2026-04-03,2026-04-03 11:29:&S
+Senior Finance Analyst,Finance,Finance_Reporting,Finance_Reporting,BASELINE_ROLE_ALIGNED,NWSM_006,2026-04-03,2026-04-03 11:29:&S
+Senior Finance Analyst,Finance,Global_SuperAdmin,Finance_Reporting,BASELINE_ROLE_MISMATCH,NWSM_006,2026-04-03,2026-04-03 11:29:&S
+Senior Network Engineer,Engineering,Eng_Deploy,Eng_Deploy,BASELINE_ROLE_ALIGNED,NWSM_006,2026-04-03,2026-04-03 11:29:&S
+Senior Network Engineer,Engineering,Eng_ReadOnly,Eng_Deploy,BASELINE_ROLE_MISMATCH,NWSM_006,2026-04-03,2026-04-03 11:29:&S
+Site Reliability Engineer,IT Operations,NetOps_Operator,NetOps_Operator,BASELINE_ROLE_ALIGNED,NWSM_006,2026-04-03,2026-04-03 11:29:&S
+Software Engineer,Engineering,Eng_ReadOnly,Eng_ReadOnly,BASELINE_ROLE_ALIGNED,NWSM_006,2026-04-03,2026-04-03 11:29:&S

@@ -1,0 +1,11 @@
+role_id,role_name,role_level
+R001,NetOps_Admin,Privileged
+R002,NetOps_Operator,Privileged
+R003,NetOps_Viewer,Read_Only
+R004,Sec_Admin,Privileged
+R005,Sec_Analyst,Standard
+R006,Eng_Deploy,Standard
+R007,Eng_ReadOnly,Read_Only
+R008,Finance_Reporting,Standard
+R009,Support_Viewer,Read_Only
+R010,Global_SuperAdmin,Privileged

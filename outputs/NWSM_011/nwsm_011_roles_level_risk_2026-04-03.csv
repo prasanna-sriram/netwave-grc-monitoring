@@ -1,0 +1,11 @@
+role_name,role_level,excessive_priviliges_count,dormant_privileges_count,terminated_access_count,mfa_disabled_count,total_users_by_role,check_id,run_date,run_timestamp
+Global_SuperAdmin,Privileged,2,1,0,2,2,NWSM_011,2026-04-03,2026-04-03 11:29:&S
+NetOps_Admin,Privileged,1,1,1,2,2,NWSM_011,2026-04-03,2026-04-03 11:29:&S
+NetOps_Operator,Privileged,2,4,0,4,6,NWSM_011,2026-04-03,2026-04-03 11:29:&S
+Sec_Admin,Privileged,1,1,0,1,2,NWSM_011,2026-04-03,2026-04-03 11:29:&S
+Eng_ReadOnly,Read_Only,0,0,0,0,6,NWSM_011,2026-04-03,2026-04-03 11:29:&S
+NetOps_Viewer,Read_Only,1,0,0,0,4,NWSM_011,2026-04-03,2026-04-03 11:29:&S
+Support_Viewer,Read_Only,0,0,0,0,2,NWSM_011,2026-04-03,2026-04-03 11:29:&S
+Eng_Deploy,Standard,0,0,0,0,5,NWSM_011,2026-04-03,2026-04-03 11:29:&S
+Finance_Reporting,Standard,0,0,0,0,5,NWSM_011,2026-04-03,2026-04-03 11:29:&S
+Sec_Analyst,Standard,0,0,0,0,4,NWSM_011,2026-04-03,2026-04-03 11:29:&S

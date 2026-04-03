@@ -1,0 +1,8 @@
+department_name,excessive_priviliges_count,dormant_privileges_count,terminated_access_count,mfa_disabled_count,total_users_by_dept,check_id,run_date,run_timestamp
+Engineering,1,1,0,1,7,NWSM_009,2026-04-03,2026-04-03 11:29:&S
+Finance,2,1,0,2,5,NWSM_009,2026-04-03,2026-04-03 11:29:&S
+HR,2,1,0,1,2,NWSM_009,2026-04-03,2026-04-03 11:29:&S
+Internal Audit,0,0,0,0,2,NWSM_009,2026-04-03,2026-04-03 11:29:&S
+IT Operations,0,2,1,3,6,NWSM_009,2026-04-03,2026-04-03 11:29:&S
+Sales & Marketing,1,1,0,1,3,NWSM_009,2026-04-03,2026-04-03 11:29:&S
+Security,0,0,0,0,5,NWSM_009,2026-04-03,2026-04-03 11:29:&S

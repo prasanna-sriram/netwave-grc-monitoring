@@ -1,0 +1,28 @@
+job_title,department_id,allowed_role_id
+Network Engineer,D001,R006
+Network Engineer,D002,R002
+DevOps Engineer,D001,R006
+Senior Network Engineer,D001,R006
+Deployment Engineer,D001,R006
+Software Engineer,D001,R007
+Observability Engineer,D001,R007
+Network Operations Engineer,D002,R002
+Network Ops Manager,D002,R002
+NOC Technician,D002,R003
+Site Reliability Engineer,D002,R002
+Security Analyst,D003,R005
+Security Engineer,D003,R005
+SecOps Analyst,D003,R005
+Security Architect,D003,R004
+Senior Finance Analyst,D004,R008
+Finance Manager,D004,R008
+Billing Specialist,D004,R008
+Financial Controller,D004,R008
+Sales Engineer,D005,R009
+Account Manager,D005,R009
+Marketing Manager,D005,R009
+HR Generalist,D006,
+HR Specialist,D006,
+Internal Auditor,D007,R003
+Audit Specialist,D007,R003
+Finance Analyst,D004,R008

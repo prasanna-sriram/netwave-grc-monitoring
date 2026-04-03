@@ -1,0 +1,31 @@
+user_id,username,full_name,department_id,job_title,employment_status,last_login_at,mfa_enabled
+U001,alice.eng,Alice Rao,D001,Network Engineer,Active,2026-03-15,true
+U002,bob.eng,Bob Chen,D001,DevOps Engineer,Active,2026-03-18,true
+U003,maya.eng,Maya Shah,D001,Senior Network Engineer,Active,2026-03-01,true
+U004,pete.eng,Pete Jordan,D001,Deployment Engineer,Active,2025-09-01,false
+U005,ian.eng,Ian Park,D001,Software Engineer,Active,2026-02-20,true
+U006,zara.eng,Zara Nair,D001,Observability Engineer,Active,2026-01-10,true
+U007,carol.ops,Carol Singh,D002,Network Operations Engineer,Active,2026-03-19,true
+U008,ivy.ops,Ivy Kumar,D002,Network Ops Manager,Active,2026-03-19,true
+U009,nick.ops,Nick Clark,D002,NOC Technician,Active,2026-02-10,false
+U010,sam.ops,Sam Green,D002,Network Engineer,Terminated,2025-12-15,false
+U011,omar.ops,Omar Ali,D002,Site Reliability Engineer,Active,2025-11-01,false
+U012,dave.sec,Dave Patel,D003,Security Analyst,Active,2026-03-17,true
+U013,john.sec,John Li,D003,Security Engineer,Active,2026-03-14,true
+U014,olga.sec,Olga Ivanova,D003,SecOps Analyst,Active,2026-02-20,true
+U015,tom.sec,Tom White,D003,Security Architect,Active,2026-03-18,true
+U016,erin.fin,Erin Lopez,D004,Senior Finance Analyst,Active,2026-03-05,false
+U017,kate.fin,Kate Young,D004,Finance Manager,Active,2026-01-31,false
+U018,quinn.fin,Quinn Carter,D004,Billing Specialist,Active,2025-11-20,false
+U019,raj.fin,Raj Mehta,D004,Financial Controller,Active,2026-02-01,false
+U020,frank.sales,Frank Miller,D005,Sales Engineer,Active,2025-12-20,false
+U021,leo.sales,Leo Walker,D005,Account Manager,Active,2025-12-01,false
+U022,sara.sales,Sara King,D005,Marketing Manager,Active,2026-01-25,false
+U023,gina.hr,Gina Brown,D006,HR Generalist,Active,2025-11-01,false
+U024,rita.hr,Rita Gomez,D006,HR Specialist,Active,2025-08-15,false
+U025,hank.audit,Hank Davis,D007,Internal Auditor,Active,2026-03-10,true
+U026,lisa.audit,Lisa Wong,D007,Audit Specialist,Active,2026-02-05,true
+U027,noah.ops,Noah Brooks,D002,Network Engineer,Active,2025-10-01,false
+U028,emma.eng,Emma Stone,D001,DevOps Engineer,Active,2025-09-10,false
+U029,ben.sec,Ben Turner,D003,Security Analyst,Active,2025-11-30,true
+U030,claire.fin,Claire Reed,D004,Finance Analyst,Active,2025-10-25,false

@@ -1,0 +1,9 @@
+system_id,system_name,system_type,criticality,owner_department
+SYS01,Core Network Monitor,network_monitoring,High,IT Operations
+SYS02,Firewall Manager,firewall,High,Security
+SYS03,Config Repository,config_repo,High,Engineering
+SYS04,VPN Gateway,network_security,High,IT Operations
+SYS05,Log Aggregator,logging,Medium,Security
+SYS06,Alert & Notification Service,alerting,Medium,IT Operations
+SYS07,Billing Integration Gateway,integration,High,Finance
+SYS08,Internal Admin Portal,admin_portal,High,Security

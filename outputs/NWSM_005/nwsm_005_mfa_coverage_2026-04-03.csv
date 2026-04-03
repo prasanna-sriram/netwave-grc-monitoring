@@ -1,0 +1,27 @@
+user_id,username,full_name,job_title,employment_status,last_login_at,mfa_enabled,department_id,department_name,system_id,system_name,criticality,role_id,role_name,role_level,compliance_status,check_id,run_date,run_timestamp
+U004,pete.eng,Pete Jordan,Deployment Engineer,Active,2025-09-01,False,D001,Engineering,SYS01,Core Network Monitor,High,R010,Global_SuperAdmin,Privileged,NON_COMPLIANT,NWSM_005,2026-04-03,2026-04-03 11:29:&S
+U007,carol.ops,Carol Singh,Network Operations Engineer,Active,2026-03-19,True,D002,IT Operations,SYS01,Core Network Monitor,High,R002,NetOps_Operator,Privileged,COMPLIANT,NWSM_005,2026-04-03,2026-04-03 11:29:&S
+U007,carol.ops,Carol Singh,Network Operations Engineer,Active,2026-03-19,True,D002,IT Operations,SYS04,VPN Gateway,High,R002,NetOps_Operator,Privileged,COMPLIANT,NWSM_005,2026-04-03,2026-04-03 11:29:&S
+U007,carol.ops,Carol Singh,Network Operations Engineer,Active,2026-03-19,True,D002,IT Operations,SYS06,Alert & Notification Service,Medium,R002,NetOps_Operator,Privileged,COMPLIANT,NWSM_005,2026-04-03,2026-04-03 11:29:&S
+U008,ivy.ops,Ivy Kumar,Network Ops Manager,Active,2026-03-19,True,D002,IT Operations,SYS01,Core Network Monitor,High,R002,NetOps_Operator,Privileged,COMPLIANT,NWSM_005,2026-04-03,2026-04-03 11:29:&S
+U008,ivy.ops,Ivy Kumar,Network Ops Manager,Active,2026-03-19,True,D002,IT Operations,SYS04,VPN Gateway,High,R002,NetOps_Operator,Privileged,COMPLIANT,NWSM_005,2026-04-03,2026-04-03 11:29:&S
+U008,ivy.ops,Ivy Kumar,Network Ops Manager,Active,2026-03-19,True,D002,IT Operations,SYS06,Alert & Notification Service,Medium,R002,NetOps_Operator,Privileged,COMPLIANT,NWSM_005,2026-04-03,2026-04-03 11:29:&S
+U010,sam.ops,Sam Green,Network Engineer,Terminated,2025-12-15,False,D002,IT Operations,SYS01,Core Network Monitor,High,R001,NetOps_Admin,Privileged,NON_COMPLIANT,NWSM_005,2026-04-03,2026-04-03 11:29:&S
+U010,sam.ops,Sam Green,Network Engineer,Terminated,2025-12-15,False,D002,IT Operations,SYS04,VPN Gateway,High,R001,NetOps_Admin,Privileged,NON_COMPLIANT,NWSM_005,2026-04-03,2026-04-03 11:29:&S
+U011,omar.ops,Omar Ali,Site Reliability Engineer,Active,2025-11-01,False,D002,IT Operations,SYS01,Core Network Monitor,High,R002,NetOps_Operator,Privileged,NON_COMPLIANT,NWSM_005,2026-04-03,2026-04-03 11:29:&S
+U011,omar.ops,Omar Ali,Site Reliability Engineer,Active,2025-11-01,False,D002,IT Operations,SYS04,VPN Gateway,High,R002,NetOps_Operator,Privileged,NON_COMPLIANT,NWSM_005,2026-04-03,2026-04-03 11:29:&S
+U011,omar.ops,Omar Ali,Site Reliability Engineer,Active,2025-11-01,False,D002,IT Operations,SYS06,Alert & Notification Service,Medium,R002,NetOps_Operator,Privileged,NON_COMPLIANT,NWSM_005,2026-04-03,2026-04-03 11:29:&S
+U015,tom.sec,Tom White,Security Architect,Active,2026-03-18,True,D003,Security,SYS02,Firewall Manager,High,R004,Sec_Admin,Privileged,COMPLIANT,NWSM_005,2026-04-03,2026-04-03 11:29:&S
+U015,tom.sec,Tom White,Security Architect,Active,2026-03-18,True,D003,Security,SYS05,Log Aggregator,Medium,R004,Sec_Admin,Privileged,COMPLIANT,NWSM_005,2026-04-03,2026-04-03 11:29:&S
+U015,tom.sec,Tom White,Security Architect,Active,2026-03-18,True,D003,Security,SYS08,Internal Admin Portal,High,R004,Sec_Admin,Privileged,COMPLIANT,NWSM_005,2026-04-03,2026-04-03 11:29:&S
+U016,erin.fin,Erin Lopez,Senior Finance Analyst,Active,2026-03-05,False,D004,Finance,SYS01,Core Network Monitor,High,R010,Global_SuperAdmin,Privileged,NON_COMPLIANT,NWSM_005,2026-04-03,2026-04-03 11:29:&S
+U018,quinn.fin,Quinn Carter,Billing Specialist,Active,2025-11-20,False,D004,Finance,SYS01,Core Network Monitor,High,R002,NetOps_Operator,Privileged,NON_COMPLIANT,NWSM_005,2026-04-03,2026-04-03 11:29:&S
+U018,quinn.fin,Quinn Carter,Billing Specialist,Active,2025-11-20,False,D004,Finance,SYS04,VPN Gateway,High,R002,NetOps_Operator,Privileged,NON_COMPLIANT,NWSM_005,2026-04-03,2026-04-03 11:29:&S
+U020,frank.sales,Frank Miller,Sales Engineer,Active,2025-12-20,False,D005,Sales & Marketing,SYS01,Core Network Monitor,High,R001,NetOps_Admin,Privileged,NON_COMPLIANT,NWSM_005,2026-04-03,2026-04-03 11:29:&S
+U020,frank.sales,Frank Miller,Sales Engineer,Active,2025-12-20,False,D005,Sales & Marketing,SYS04,VPN Gateway,High,R002,NetOps_Operator,Privileged,NON_COMPLIANT,NWSM_005,2026-04-03,2026-04-03 11:29:&S
+U020,frank.sales,Frank Miller,Sales Engineer,Active,2025-12-20,False,D005,Sales & Marketing,SYS06,Alert & Notification Service,Medium,R002,NetOps_Operator,Privileged,NON_COMPLIANT,NWSM_005,2026-04-03,2026-04-03 11:29:&S
+U023,gina.hr,Gina Brown,HR Generalist,Active,2025-11-01,False,D006,HR,SYS01,Core Network Monitor,High,R004,Sec_Admin,Privileged,NON_COMPLIANT,NWSM_005,2026-04-03,2026-04-03 11:29:&S
+U023,gina.hr,Gina Brown,HR Generalist,Active,2025-11-01,False,D006,HR,SYS08,Internal Admin Portal,High,R004,Sec_Admin,Privileged,NON_COMPLIANT,NWSM_005,2026-04-03,2026-04-03 11:29:&S
+U027,noah.ops,Noah Brooks,Network Engineer,Active,2025-10-01,False,D002,IT Operations,SYS01,Core Network Monitor,High,R002,NetOps_Operator,Privileged,NON_COMPLIANT,NWSM_005,2026-04-03,2026-04-03 11:29:&S
+U027,noah.ops,Noah Brooks,Network Engineer,Active,2025-10-01,False,D002,IT Operations,SYS04,VPN Gateway,High,R002,NetOps_Operator,Privileged,NON_COMPLIANT,NWSM_005,2026-04-03,2026-04-03 11:29:&S
+U027,noah.ops,Noah Brooks,Network Engineer,Active,2025-10-01,False,D002,IT Operations,SYS06,Alert & Notification Service,Medium,R002,NetOps_Operator,Privileged,NON_COMPLIANT,NWSM_005,2026-04-03,2026-04-03 11:29:&S
